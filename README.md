@@ -5,7 +5,7 @@ aiming for a better visualization when working with numerous species.
 
 ## Prerequisites
 ```bash
-python=3.14.1;
+python=3.14.1
 biopython=1.85
 matplotlib=3.10.7
 scipy=1.16.3
