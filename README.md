@@ -3,9 +3,14 @@ MitoRSCU is a tool designed to conduct Relative Synonymous Codon Usage (RSCU) on
 It takes fasta files with protein-coding gene sequences as inputs, and conduct an RSCU analysis and generate a clustered heatmap, 
 aiming for a better visualization when working with numerous species.
 
+
+
+[![DOI](https://zenodo.org/badge/1116780578.svg)](https://doi.org/10.5281/zenodo.17938892)
+
+
 ## Prerequisites
 ```bash
-python=3.14.1;
+python=3.14.1
 biopython=1.85
 matplotlib=3.10.7
 scipy=1.16.3
@@ -52,7 +57,7 @@ The example dataset includes the 13 mitochondrial protein‑coding genes from se
  python MitoRSCU.py --input example_data/*.fasta --genetic_code 2 --output example_data_results
 ```
 ##### Clustered Heatmap
-![RSCU_plot_clustered](https://github.com/user-attachments/assets/5d954440-f31d-498f-8102-ee6b183f726a)
+![RSCU_plot_clustered](https://raw.githubusercontent.com/silvaib/MitoRSCU/main/img/RSCU_plot_clustered)
 
 ## License
 
@@ -61,4 +66,4 @@ Distributed under the GPL-3.0 license. See LICENSE.txt for more information.
 
 ## Citation
 
-If you used this tool, we ask you to cite:
+If you used this tool, we ask you to cite: https://doi.org/10.5281/zenodo.17938892
