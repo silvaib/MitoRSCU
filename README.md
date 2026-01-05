@@ -66,4 +66,8 @@ Distributed under the GPL-3.0 license. See LICENSE.txt for more information.
 
 ## Citation
 
+<<<<<<< HEAD
 If you used this tool, we ask you to cite: https://doi.org/10.5281/zenodo.17938892
+=======
+If you used this tool, we ask you to cite: https://doi.org/10.5281/zenodo.17938892
+>>>>>>> 6550b033e2ee1b34cdf3e6133644633be865703e
