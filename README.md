@@ -57,7 +57,7 @@ The example dataset includes the 13 mitochondrial protein‑coding genes from se
  python MitoRSCU.py --input example_data/*.fasta --genetic_code 2 --output example_data_results
 ```
 ##### Clustered Heatmap
-![RSCU_plot_clustered](https://raw.githubusercontent.com/silvaib/MitoRSCU/main/img/RSCU_plot_clustered)
+![RSCU_plot_clustered](https://raw.githubusercontent.com/silvaib/MitoRSCU/main/img/RSCU_plot_clustered.svg)
 
 ## License
 
@@ -66,8 +66,4 @@ Distributed under the GPL-3.0 license. See LICENSE.txt for more information.
 
 ## Citation
 
-<<<<<<< HEAD
 If you used this tool, we ask you to cite: https://doi.org/10.5281/zenodo.17938892
-=======
-If you used this tool, we ask you to cite: https://doi.org/10.5281/zenodo.17938892
->>>>>>> 6550b033e2ee1b34cdf3e6133644633be865703e
